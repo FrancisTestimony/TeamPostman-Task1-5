@@ -1,0 +1,254 @@
+{
+	"id": "ae656038-8582-4c33-81bf-bc63434d27b9",
+	"name": "API Tasks Collections",
+	"timestamp": "2023-03-09T01:34:35.096Z",
+	"collection_id": "25897630-0680116a-f40d-4e2d-bd54-687952cac4ec",
+	"folder_id": 0,
+	"environment_id": "25897630-f44670bd-3b4f-41b0-9f67-b725cc8f502d",
+	"totalPass": 22,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-09T01:34:29.921Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "d0b9c90c-d35d-4623-83dd-bbb2359400fb",
+			"name": "200 OK (Task 6)",
+			"url": "https://www.getpostman.com/collections/15036f85a35d875ecfdf",
+			"time": 1100,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code should have a string": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code should have a string": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				1100
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code should have a string": true
+				}
+			]
+		},
+		{
+			"id": "94373298-a6be-4964-9894-ba66240ce43a",
+			"name": "Body Responses (Task 7A)",
+			"url": "https://www.getpostman.com/collections/15036f85a35d875ecfdf",
+			"time": 566,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code should have a string": true,
+				"Confirm that the name should be MyTutorCollection": true,
+				"Body should contain a name string": true,
+				"Confirm that data mode should be params": true,
+				"Request string should have a name": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code should have a string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the name should be MyTutorCollection": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body should contain a name string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that data mode should be params": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Request string should have a name": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				566
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code should have a string": true,
+					"Confirm that the name should be MyTutorCollection": true,
+					"Body should contain a name string": true,
+					"Confirm that data mode should be params": true,
+					"Request string should have a name": true
+				}
+			]
+		},
+		{
+			"id": "41df69be-00c3-4cdb-b18c-f429de367a75",
+			"name": "Manual Tests (Task 7B)",
+			"url": "https://www.getpostman.com/collections/15036f85a35d875ecfdf",
+			"time": 555,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code should have a string": true,
+				"Confirm that the name should be MyTutorCollection": true,
+				"Body should contain a name string": true,
+				"Confirm that data mode should be params": true,
+				"Request string should have a name": true,
+				"Confirm that the order has an ID": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code should have a string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the name should be MyTutorCollection": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body should contain a name string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that data mode should be params": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Request string should have a name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the order has an ID": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				555
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code should have a string": true,
+					"Confirm that the name should be MyTutorCollection": true,
+					"Body should contain a name string": true,
+					"Confirm that data mode should be params": true,
+					"Request string should have a name": true,
+					"Confirm that the order has an ID": true
+				}
+			]
+		},
+		{
+			"id": "350b916b-a33f-432d-95c4-843eccb6a4f6",
+			"name": "Creating Environment (Task 8A/B)",
+			"url": "https://www.getpostman.com/collections/15036f85a35d875ecfdf",
+			"time": 521,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code should have a string": true,
+				"Confirm that the name should be MyTutorCollection": true,
+				"Body should contain a name string": true,
+				"Confirm that data mode should be params": true,
+				"Request string should have a name": true,
+				"Confirm that the order has an ID": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code should have a string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the name should be MyTutorCollection": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body should contain a name string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that data mode should be params": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Request string should have a name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that the order has an ID": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				521
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code should have a string": true,
+					"Confirm that the name should be MyTutorCollection": true,
+					"Body should contain a name string": true,
+					"Confirm that data mode should be params": true,
+					"Request string should have a name": true,
+					"Confirm that the order has an ID": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2742,
+	"collection": {
+		"requests": [
+			{
+				"id": "d0b9c90c-d35d-4623-83dd-bbb2359400fb",
+				"method": "GET"
+			},
+			{
+				"id": "94373298-a6be-4964-9894-ba66240ce43a",
+				"method": "GET"
+			},
+			{
+				"id": "41df69be-00c3-4cdb-b18c-f429de367a75",
+				"method": "GET"
+			},
+			{
+				"id": "350b916b-a33f-432d-95c4-843eccb6a4f6",
+				"method": "GET"
+			}
+		]
+	}
+}
